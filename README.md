@@ -1,7 +1,8 @@
 # ML-PB-Covid-drug
 This repository contains data and simulation input from the paper:
 
-"Pandemic Drugs at Pandemic Speed: Accelerating COVID-19 Drug Discovery with Hybrid Machine Learning- and Physics-based Simulations on High Performance Computers", Agastya P. Bhati, Shunzhou Wan, Dario Alfè, Mathis Bode, Matteo Turilli, Shantenu Jha, Roger R. Highfield, Walter Rocchia, Nicola Scafuri, Sauro Succi, Dieter Kranzlmüller, Gerald Mathias, David Wifling, Yann Donon, Alberto Di Meglio, Sofia Vallecorsa, Anda Trifan, Arvind Ramanathan, Rick Stevens, Peter V. Coveney
+"Pandemic Drugs at Pandemic Speed: Accelerating COVID-19 Drug Discovery with Hybrid Machine Learning- and Physics-based Simulations on High Performance Computers"
+Agastya P. Bhati, Shunzhou Wan, Dario Alfè, Mathis Bode, Matteo Turilli, Shantenu Jha, Roger R. Highfield, Walter Rocchia, Nicola Scafuri, Sauro Succi, Dieter Kranzlmüller, Gerald Mathias, David Wifling, Yann Donon, Alberto Di Meglio, Sofia Vallecorsa, Anda Trifan, Arvind Ramanathan, Rick Stevens, Peter V. Coveney
 
 What follows is a brief description of the contents
 
