@@ -26,7 +26,7 @@ Contains the PDBS used to create starting structures, including conserved water 
 
 ## ligand-ff-params
 
-Forcefield files (`frcmod` and `prep`) describing parameterized ligands.
+Forcefield files (`mol2` and `prep`) describing parameterized ligands.
 
 ## ESMACS
 
