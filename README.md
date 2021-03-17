@@ -5,6 +5,8 @@ This repository contains data and simulation input from the paper:
 
 Agastya P. Bhati, Shunzhou Wan, Dario Alfè, Mathis Bode, Matteo Turilli, Shantenu Jha, Roger R. Highfield, Walter Rocchia, Nicola Scafuri, Sauro Succi, Dieter Kranzlmüller, Gerald Mathias, David Wifling, Yann Donon, Alberto Di Meglio, Sofia Vallecorsa, Anda Trifan, Arvind Ramanathan, Rick Stevens, Peter V. Coveney
 
+https://arxiv.org/abs/2103.02843
+
 What follows is a brief description of the contents
 
 # Naming conventions 
