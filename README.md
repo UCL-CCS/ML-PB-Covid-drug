@@ -1,4 +1,6 @@
 # ML-PB-Covid-drug
+[![DOI](https://zenodo.org/badge/334097696.svg)](https://zenodo.org/badge/latestdoi/334097696)
+
 This repository contains data and simulation input from the paper:
 
 "Pandemic Drugs at Pandemic Speed: Accelerating COVID-19 Drug Discovery with Hybrid Machine Learning- and Physics-based Simulations on High Performance Computers"
