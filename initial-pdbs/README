@@ -9,3 +9,9 @@ Structures for the 100 compounds for each of the protein
 ADRP-compounds.tar
 NSP15-compounds.tar
 PLPro-compounds.tar
+
+SMILES and docking scores for top 10,000 compounds
+3CLPro_sorted-10000.csv
+NSP15_sorted-10000.csv
+adrp_sorted-10000.csv
+plpro_sorted-10000.csv
