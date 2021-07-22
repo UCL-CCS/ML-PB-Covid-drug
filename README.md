@@ -39,10 +39,6 @@ Files related to MMPBSA analysis in tab separated values format.
 - `input` - contains the MMPBSA input file used for all analyses
 - `3clpro`, `plpro`, `adrp` and `nsp15` - contain results for the four protein targets
 
-## TIES
-
-Files related to TIES analysis in tab separated values format.
-
 ## simulated-topologies
 
 Amber forcefield topology (`prmtop`) and coordinate (`inpcrd` and `pdb`) files for all ligands (for ESMACS) or ligand pairs (for TIES).
