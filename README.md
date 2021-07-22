@@ -26,7 +26,7 @@ Two apprpaches are applied for the free energy calculatiions:
 
 ## initial-pdbs
 
-Contains the PDBS used to create starting structures, including conserved water molecules
+Contains .csv files for top 10,000 compounds to each protein target from docking studies, and PDB files for the proteins and the top 100 compounds. The latter are used to create starting structures for the MD simulations.
 
 ## ligand-ff-params
 
